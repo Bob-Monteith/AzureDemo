@@ -1,0 +1,102 @@
+{
+	"vm_policies": [{
+			"policy": "none",
+			"index": "01"
+		},
+		{
+			"policy": "basic",
+			"index": "01"
+		},
+		{
+			"policy": "light",
+			"index": "02"
+		},
+		{
+			"policy": "medium",
+			"index": "03"
+		},
+		{
+			"policy": "intermediate",
+			"index": "04"
+		},
+		{
+			"policy": "enhanced",
+			"index": "05"
+		}
+	],
+	"sql_policies": [{
+			"policy": "none",
+			"index": "21"
+		},
+		{
+			"policy": "basic",
+			"index": "21"
+		},
+		{
+			"policy": "light",
+			"index": "21"
+		},
+		{
+			"policy": "medium",
+			"index": "23"
+		},
+		{
+			"policy": "intermediate",
+			"index": "24"
+		},
+		{
+			"policy": "enhanced",
+			"index": "25"
+		}
+	],
+	"oracle_file_policies": [{
+			"policy": "none",
+			"index": "31"
+		},
+		{
+			"policy": "basic",
+			"index": "31"
+		},
+		{
+			"policy": "light",
+			"index": "31"
+		},
+		{
+			"policy": "medium",
+			"index": "33"
+		},
+		{
+			"policy": "intermediate",
+			"index": "34"
+		},
+		{
+			"policy": "enhanced",
+			"index": "35"
+		}
+	],
+	"db_file_policies": [{
+		"policy": "none",
+		"index": "41"
+	},
+	{
+		"policy": "basic",
+		"index": "41"
+	},
+	{
+		"policy": "light",
+		"index": "41"
+	},
+	{
+		"policy": "medium",
+		"index": "43"
+	},
+	{
+		"policy": "intermediate",
+		"index": "44"
+	},
+	{
+		"policy": "enhanced",
+		"index": "45"
+	}
+	]	
+}

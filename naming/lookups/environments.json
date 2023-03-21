@@ -1,0 +1,46 @@
+{
+	"environments": [
+        {
+			"environment": "development",
+			"code": "dv"
+		},   
+        {
+			"environment": "integration",
+			"code": "in"
+		},   
+        {
+			"environment": "uat",
+			"code": "ua"
+		},		
+        {
+			"environment": "pre-production",
+			"code": "pp"
+		},   
+        {
+			"environment": "production",
+			"code": "pr"
+		}                                     
+    ],
+    "networks": [
+        {
+			"environment": "development",
+			"code": "dv"
+		},   
+        {
+			"environment": "integration",
+			"code": "dv"
+		},   
+        {
+			"environment": "uat",
+			"code": "dv"
+		},  		
+        {
+			"environment": "pre-production",
+			"code": "pp"
+		},   
+        {
+			"environment": "production",
+			"code": "pr"
+		}          
+    ]
+}

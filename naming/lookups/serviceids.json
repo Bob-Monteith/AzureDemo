@@ -1,0 +1,171 @@
+{
+	"techserviceids": [{
+			"region": "northeurope",
+			"technical_service_id": "cd9d9c3a1bec8994e3e66574604bcbea",
+			"silva_region_sysid": "cd9d9c3a1bec8994e3e66574604bcbea",
+			"silva_region_name": "MS Azure North-Europe_[Site]"
+		},
+		{
+			"region": "westeurope",
+			"technical_service_id": "c19d9c3a1bec8994e3e66574604bcbee",
+			"silva_region_sysid": "c19d9c3a1bec8994e3e66574604bcbee",
+			"silva_region_name": "MS Azure West-Europe_[Site]"
+		},
+		{
+			"region": "australiasoutheast",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "australiaeast",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "brazilsouth",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "canadacentral",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "canadaeast",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "centralindia",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "centralus",
+			"technical_service_id": "en1",
+			"silva_region_sysid": "North Europe",
+			"silva_region_name": "North Europe"
+		},
+		{
+			"region": "chinaeast",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "chinanorth",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "eastasia",
+			"technical_service_id": "c99d9c3a1bec8994e3e66574604bcbe7",
+			"silva_region_sysid": "c99d9c3a1bec8994e3e66574604bcbe7",
+			"silva_region_name": "MS Azure East-Asia_[Site]"
+		},
+		{
+			"region": "eastus",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "eastus2",
+			"technical_service_id": "519ddc3a1bec8994e3e66574604bcb3c",
+			"silva_region_sysid": "519ddc3a1bec8994e3e66574604bcb3c",
+			"silva_region_name": "MS Azure US East 2_[Site]"
+		},
+		{
+			"region": "francecentral",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "global",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "japaneast",
+			"technical_service_id": "709d9c3a1bec8994e3e66574604bcbe6",
+			"silva_region_sysid": "709d9c3a1bec8994e3e66574604bcbe6",
+			"silva_region_name": "MS Azure Japan East_[Site]"
+		},
+		{
+			"region": "japanwest",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "northcentralus",
+			"technical_service_id": "d99ddc3a1bec8994e3e66574604bcb3d",
+			"silva_region_sysid": "d99ddc3a1bec8994e3e66574604bcb3d",
+			"silva_region_name": "MS Azure US North-Central_[Site]"
+		},
+		{
+			"region": "southcentralus",
+			"technical_service_id": "bc04781c870495d8a1ed32a80cbb3565",
+			"silva_region_sysid": "bc04781c870495d8a1ed32a80cbb3565",
+			"silva_region_name": "MS Azure US South-Central_[Site]"
+		},
+		{
+			"region": "southindia",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "southeastasia",
+			"technical_service_id": "459d9c3a1bec8994e3e66574604bcbe9",
+			"silva_region_sysid": "459d9c3a1bec8994e3e66574604bcbe9",
+			"silva_region_name": "MS Azure South-East-Asia_[Site]"
+		},
+		{
+			"region": "switzerlandnorth",
+			"technical_service_id": "5d9d9c3a1bec8994e3e66574604bcbef",
+			"silva_region_sysid": "5d9d9c3a1bec8994e3e66574604bcbef",
+			"silva_region_name": "MS Azure Switzerland North_[Site]"
+		},
+		{
+			"region": "switzerlandwest",
+			"technical_service_id": "499d9c3a1bec8994e3e66574604bcbec",
+			"silva_region_sysid": "499d9c3a1bec8994e3e66574604bcbec",
+			"silva_region_name": "MS Azure Switzerland West_[Site]"
+		},
+		{
+			"region": "westcentralus",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "westindia",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "westus",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		},
+		{
+			"region": "westus2",
+			"technical_service_id": "x",
+			"silva_region_sysid": "x",
+			"silva_region_name": "x"
+		}
+	]
+}

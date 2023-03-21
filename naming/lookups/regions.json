@@ -1,0 +1,143 @@
+{
+	"regions": [{
+			"region": "northeurope",
+			"code": "en1",
+			"description": "North Europe"
+		},
+		{
+			"region": "westeurope",
+			"code": "ew1",
+			"description": "West Europe"
+		},
+		{
+			"region": "australiasoutheast",
+			"code": "sa1",
+			"description": "Australia Southeast"
+		},
+		{
+			"region": "australiaeast",
+			"code": "se1",
+			"description": "Australia East"
+		},
+		{
+			"region": "brazilsouth",
+			"code": "sb1",
+			"description": "Brazil South"
+		},
+		{
+			"region": "canadacentral",
+			"code": "cc1",
+			"description": "Canada Central"
+		},
+		{
+			"region": "canadaeast",
+			"code": "ec1",
+			"description": "Canada East"
+		},
+		{
+			"region": "centralindia",
+			"code": "ic1",
+			"description": "Central India"
+		},
+		{
+			"region": "centralus",
+			"code": "uc1",
+			"description": "Central US"
+		},
+		{
+			"region": "chinaeast",
+			"code": "ec1",
+			"description": "China East"
+		},
+		{
+			"region": "chinanorth",
+			"code": "nc1",
+			"description": "China North"
+		},
+		{
+			"region": "eastasia",
+			"code": "ae1",
+			"description": "East Asia"
+		},
+		{
+			"region": "eastus",
+			"code": "ue1",
+			"description": "East US"
+		},
+		{
+			"region": "eastus2",
+			"code": "ue2",
+			"description": "East US 2"
+		},
+		{
+			"region": "francecentral",
+			"code": "cf1",
+			"description": "France Central"
+		},
+		{
+			"region": "global",
+			"code": "gl1",
+			"description": "Global"
+		},
+		{
+			"region": "japaneast",
+			"code": "ej1",
+			"description": "Japan East"
+		},
+		{
+			"region": "japanwest",
+			"code": "wj1",
+			"description": "Japan West"
+		},
+		{
+			"region": "northcentralus",
+			"code": "ucn",
+			"description": "North Central US"
+		},
+		{
+			"region": "southcentralus",
+			"code": "ucs",
+			"description": "South Central US"
+		},
+		{
+			"region": "southindia",
+			"code": "is1",
+			"description": "South India"
+		},
+		{
+			"region": "southeastasia",
+			"code": "as1",
+			"description": "Southeast Asia"
+		},
+		{
+			"region": "switzerlandnorth",
+			"code": "ns1",
+			"description": "Switzerland North"
+		},
+		{
+			"region": "switzerlandwest",
+			"code": "ws1",
+			"description": "Switzerland West"
+		},
+		{
+			"region": "westcentralus",
+			"code": "ucw",
+			"description": "West Central US"
+		},
+		{
+			"region": "westindia",
+			"code": "iw1",
+			"description": "West India"
+		},
+		{
+			"region": "westus",
+			"code": "uw1",
+			"description": "West US"
+		},
+		{
+			"region": "westus2",
+			"code": "uw2",
+			"description": "West US"
+		}
+	]
+}

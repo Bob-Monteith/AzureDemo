@@ -1,0 +1,12 @@
+variable "vm_name" {}
+variable "resource_group_name" {}
+variable "location" {}
+variable "storage_account_type" {}
+variable "tags" {}
+variable "virtual_machine_id" {}
+variable "caching" {}
+variable "disk_size_gb" {}
+variable "disk_name" {}
+variable "lun" {}
+variable "disk_zone" {}
+variable "disk_encryption_set_id" {}

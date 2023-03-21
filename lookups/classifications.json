@@ -1,0 +1,64 @@
+{
+   "classifications": [
+      {
+         "exposure": "internal",
+         "environment": "pre-production",
+         "dataclass": "secret",
+         "classification": "s"
+      },
+      {
+         "exposure": "internal",
+         "environment": "production",
+         "dataclass": "secret",
+         "classification": "s"
+      },
+      {
+         "exposure": "external",
+         "environment": "pre-production",
+         "dataclass": "secret",
+         "classification": "s"
+      },
+      {
+         "exposure": "external",
+         "environment": "production",
+         "dataclass": "secret",
+         "classification": "s"
+      },
+      {
+         "exposure": "external",
+         "environment": "pre-production",
+         "dataclass": "public",
+         "classification": "pi"
+      },
+      {
+         "exposure": "external",
+         "environment": "production",
+         "dataclass": "public",
+         "classification": "pi"
+      },      
+      {
+         "exposure": "external",
+         "environment": "pre-production",
+         "dataclass": "internal",
+         "classification": "pi"
+      },
+      {
+         "exposure": "external",
+         "environment": "production",
+         "dataclass": "internal",
+         "classification": "pi"
+      },
+      {
+         "exposure": "external",
+         "environment": "pre-production",
+         "dataclass": "confidential",
+         "classification": "c"
+      },
+      {
+         "exposure": "external",
+         "environment": "production",
+         "dataclass": "confidential",
+         "classification": "c"
+      }
+   ]
+}

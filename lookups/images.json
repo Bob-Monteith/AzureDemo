@@ -1,0 +1,71 @@
+{
+	"images": [{
+			"name": "RHEL86_BYOS_Mutable",
+			"plan": "rhel-lvm86"
+		},
+		{
+			"name": "RHEL86_BYOS_Mutable_Test",
+			"plan": "rhel-lvm86"
+		},		
+		{
+			"name": "RHEL87_BYOS_Mutable",
+			"plan": "rhel-lvm87"
+		},
+		{
+			"name": "RHEL87_BYOS_Mutable_Test",
+			"plan": "rhel-lvm87"
+		},		
+		{
+			"name": "RHEL88_BYOS_Mutable",
+			"plan": "rhel-lvm88"
+		},
+		{
+			"name": "RHEL89_BYOS_Mutable",
+			"plan": "rhel-lvm89"
+		},				
+		{
+			"name": "RHEL79_BYOS_Mutable",
+			"plan": "rhel-lvm79"
+		},
+		{
+			"name": "RHEL79_BYOS_Mutable_Test",
+			"plan": "rhel-lvm79"
+		},		
+		{
+			"name": "RHEL91_BYOS_Mutable",
+			"plan": "rhel-lvm91"
+		},
+		{
+			"name": "RHEL92_BYOS_Mutable",
+			"plan": "rhel-lvm92"
+		},
+		{
+			"name": "RHEL93_BYOS_Mutable",
+			"plan": "rhel-lvm93"
+		},
+		{
+			"name": "RHEL94_BYOS_Mutable",
+			"plan": "rhel-lvm94"
+		},
+		{
+			"name": "RHEL95_BYOS_Mutable",
+			"plan": "rhel-lvm95"
+		},
+		{
+			"name": "RHEL96_BYOS_Mutable",
+			"plan": "rhel-lvm96"
+		},
+		{
+			"name": "RHEL97_BYOS_Mutable",
+			"plan": "rhel-lvm97"
+		},		
+		{
+			"name": "RHEL98_BYOS_Mutable",
+			"plan": "rhel-lvm98"
+		},	
+		{
+			"name": "RHEL99_BYOS_Mutable",
+			"plan": "rhel-lvm99"
+		}														
+	]
+}

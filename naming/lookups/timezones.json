@@ -1,0 +1,116 @@
+{
+	"timezones": [
+        {
+			"region": "northeurope",
+			"zone": "UTC"
+		},
+		{
+			"region": "global",
+			"zone": "UTC"
+		},
+		{
+			"region": "westeurope",
+			"zone": "W. Europe Standard Time"
+		},
+		{
+			"region": "francecentral",
+			"zone": "W. Europe Standard Time"
+		},
+		{
+			"region": "switzerlandnorth",
+			"zone": "W. Europe Standard Time"
+		},
+		{
+			"region": "switzerlandwest",
+			"zone": "W. Europe Standard Time"
+		},
+		{
+			"region": "australiasoutheast",
+			"zone": "AUS Eastern Standard Time"
+		},    
+		{
+			"region": "australiaeast",
+			"zone": "E. Australia Standard Time"
+		},    
+		{
+			"region": "brazilsouth",
+			"zone": "E. South America Standard Time"
+		},
+		{
+			"region": "canadacentral",
+			"zone": "Canada Central Standard Time"
+		}, 
+		{
+			"region": "canadaeast",
+			"zone": "Central Standard Time"
+		}, 
+		{
+			"region": "centralindia",
+			"zone": "India Standard Time"
+		}, 
+		{
+			"region": "westindia",
+			"zone": "India Standard Time"
+		},                                                                                             
+		{
+			"region": "southindia",
+			"zone": "India Standard Time"
+		}, 
+		{
+			"region": "centralus",
+			"zone": "Central Standard Time"
+		}, 
+		{
+			"region": "northcentralus",
+			"zone": "Central Standard Time"
+		}, 
+		{
+			"region": "southcentralus",
+			"zone": "Central Standard Time"
+		},    
+		{
+			"region": "chinaeast",
+			"zone": "China Standard Time"
+		}, 
+		{
+			"region": "chinanorth",
+			"zone": "China Standard Time"
+		}, 
+		{
+			"region": "eastasia",
+			"zone": "China Standard Time"
+		},                                                       
+		{
+			"region": "eastus",
+			"zone": "Eastern Standard Time"
+		},  
+		{
+			"region": "eastus2",
+			"zone": "Eastern Standard Time"
+		},   
+		{
+			"region": "japaneast",
+			"zone": "Tokyo Standard Time"
+		}, 
+		{
+			"region": "japanwest",
+			"zone": "Tokyo Standard Time"
+		}, 
+		{
+			"region": "southeastasia",
+			"zone": "Singapore Standard Time"
+		}, 
+		{
+			"region": "westcentralus",
+			"zone": "Mountain Standard Time"
+		},    
+		{
+			"region": "westus",
+			"zone": "Pacific Standard Time"
+		},         
+		{
+			"region": "westus2",
+			"zone": "Pacific Standard Time"
+		}                                                       
+    ]
+}
